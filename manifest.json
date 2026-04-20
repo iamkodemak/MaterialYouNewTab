@@ -60,5 +60,7 @@
       ],
       "matches": ["<all_urls>"]
     }
-  ]
+  ],
+
+  "_note": "Personal fork - tracking upstream prem-k-r/MaterialYouNewTab for learning purposes"
 }
