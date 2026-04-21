@@ -62,5 +62,10 @@
     }
   ],
 
-  "_note": "Personal fork - tracking upstream prem-k-r/MaterialYouNewTab for learning purposes"
+  "_note": "Personal fork - tracking upstream prem-k-r/MaterialYouNewTab for learning purposes",
+  "_fork_notes": [
+    "Upstream: https://github.com/prem-k-r/MaterialYouNewTab",
+    "Changes from upstream: see CHANGES.md",
+    "Last synced with upstream: 2024-01"
+  ]
 }
